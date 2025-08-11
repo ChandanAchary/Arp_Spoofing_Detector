@@ -1,7 +1,7 @@
 # ARP Spoofing Detector + Mitigation (Windows)
 
 ![Network Security](https://img.shields.io/badge/Network-Security-blue)
-![Python](https://img.shields.io/badge/Python-3.x-green)
+![Python](https://img.shields.io/badge/Python-3.13.5-green)
 ![Windows](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
 ---
